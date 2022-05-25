@@ -4,7 +4,7 @@ body {
   color: #FEF2BF;
 }
 
-#level-title, .name {
+#level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin: 5%;
@@ -13,6 +13,9 @@ body {
 
 .name {
   font-size: 3.5rem;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin: 5%;
 }
 
 .footer {
